@@ -1,0 +1,36 @@
+.naibar-no {
+    text-align: center;
+    margin-top: -150px;
+}
+.naibar-no h2 {
+    color:#ffffff;
+    font-size: 1.8em;
+}
+.naibar-no p{
+    color:#3535ee;
+    font-size: 0.8em;
+
+}
+.naibar-no span {
+    color: #fff;
+}
+.is {
+    margin-top: -280px;
+}
+.isa {
+    width: 60%;
+}
+.isb{
+    width: 40%;
+}
+.qs-i-d img{
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.set {
+    margin: 15px;
+}
